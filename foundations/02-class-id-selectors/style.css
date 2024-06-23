@@ -1,0 +1,23 @@
+p{
+    background-color: pink;
+    font-family: verdana, "dejavu sans", sans-serif;
+
+}
+
+#Id-1{
+        color: blue;
+        font-size: 32px;
+
+}
+
+.Class-2{
+        font-size: 22px;
+    
+}
+
+#Id-2{
+        background-color: lightgreen;
+        font-size: 24px;
+        font-weight: 700;
+        
+}
